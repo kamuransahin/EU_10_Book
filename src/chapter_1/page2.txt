@@ -1,4 +1,6 @@
 
 
 this is second page
+
+Java is cool!
 and it is still red
